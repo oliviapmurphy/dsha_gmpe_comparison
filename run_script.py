@@ -1,5 +1,5 @@
-from create_med_sig_data import create_hazard_site_type_data
-from create_plot import create_single_figure, create_complete_scaling_figure, plot_eq_levels
+from plot_functions.create_med_sig_data import create_hazard_site_type_data
+from plot_functions.create_plot import create_single_figure, create_complete_scaling_figure, plot_eq_levels
 from create_gm_input_file import create_input_gm_model_file
 
 

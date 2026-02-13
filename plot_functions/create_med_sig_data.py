@@ -39,7 +39,7 @@ def create_hazard_site_type_data(file_name, hazard_type, site_class, scale_targe
 
     df_complete = df_complete.drop(columns=['Sigma_ln'])
 
-    output_folder = Path('processed_data')
+    output_folder = Path('../processed_data')
     os.makedirs(output_folder, exist_ok=True)
 
     file_name = file_name.stem

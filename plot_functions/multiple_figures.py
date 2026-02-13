@@ -1,7 +1,7 @@
 from pathlib import Path
 
 
-from create_med_sig_data import create_hazard_site_type_data
+from plot_functions.create_med_sig_data import create_hazard_site_type_data
 from create_gm_input_file import list_site_hazard_scale_files
 
 

@@ -123,7 +123,7 @@ def plot_setup():
 
 
 def input_information():
-    output_folder = Path(f'figures')
+    output_folder = Path(f'../figures')
     os.makedirs(output_folder, exist_ok=True)
     spectra_types = ['target', 'scaled']
     return output_folder, spectra_types

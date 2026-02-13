@@ -1,3 +1,4 @@
+import os
 from pathlib import Path
 import csv
 import re
@@ -165,7 +166,9 @@ def create_input_gm_model_file(scale_target_type, smf_model_location):
         })
         hazard_df=hazard_df[['GM Title','Site Class', 'Scale Factor', 'GM file']]
 
-        file_name = f'{hazard}_{scale_target_type}_motion_suite.csv'
+        output_folder = 'gm_suites'
+        os.makedirs(output_folder, exist_ok=True)
+        file_name = f'{output_folder}/{hazard}_{scale_target_type}_motion_suite.csv'
         hazard_df.to_csv(file_name, index=False)
         hazard_df.to_csv(rf'{smf_model_location}\{file_name}', index=False)
 
