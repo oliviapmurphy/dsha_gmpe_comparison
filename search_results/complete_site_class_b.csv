@@ -1,0 +1,85 @@
+Earthquake Name,Year,Station Name,Magnitude,Mechanism,Horizontal-1 Acc. Filename,Horizontal-2 Acc. Filename
+"""Oroville-01""",1975,"""Oroville Seismograph Station""",5.89,Normal,RSN106_OROVILLE_A-ORV037.AT2,RSN106_OROVILLE_A-ORV307.AT2
+"""Irpinia_ Italy-02""",1980,"""Bagnoli Irpinio""",6.2,Normal,RSN296_ITALY_B-BAG000.AT2,RSN296_ITALY_B-BAG270.AT2
+"""Kozani_ Greece-01""",1995,"""Kozani""",6.4,Normal,RSN1126_KOZANI_KOZ--L.AT2,RSN1126_KOZANI_KOZ--T.AT2
+"""Umbria-03_ Italy""",1984,"""Gubbio""",5.6,Normal,RSN4312_UMBRIA.P_I-GBB000.AT2,RSN4312_UMBRIA.P_I-GBB090.AT2
+"""Umbria Marche (aftershock 1)_ Italy""",1997,"""Nocera Umbra-Salmata""",5.5,Normal,RSN4369_UBMARCHE.P_E-NCM000.AT2,RSN4369_UBMARCHE.P_E-NCM270.AT2
+"""Umbria Marche (aftershock 8)_ Italy""",1997,"""Norcia""",5.2,Normal,RSN4380_UBMARCHE.P_I-NRC000.AT2,RSN4380_UBMARCHE.P_I-NRC270.AT2
+"""Umbria Marche (aftershock 2)_ Italy""",1997,"""Norcia""",5.6,Normal,RSN4390_UBMARCHE.P_J-NRC000.AT2,RSN4390_UBMARCHE.P_J-NRC270.AT2
+"""L'Aquila_ Italy""",2009,"""Celano""",6.3,Normal,RSN4472_L-AQUILA_TK003XTE.AT2,RSN4472_L-AQUILA_TK003YLN.AT2
+"""L'Aquila_ Italy""",2009,"""Fiamignano""",6.3,Normal,RSN4475_L-AQUILA_BX007XTE.AT2,RSN4475_L-AQUILA_BX007YLN.AT2
+"""L'Aquila_ Italy""",2009,"""L'Aquila - V. Aterno -Colle Grilli""",6.3,Normal,RSN4481_L-AQUILA_FA030XTE.AT2,RSN4481_L-AQUILA_FA030YLN.AT2
+"""L'Aquila_ Italy""",2009,"""Leonessa""",6.3,Normal,RSN4485_L-AQUILA_ZC002XTE.AT2,RSN4485_L-AQUILA_ZC002YLN.AT2
+"""L'Aquila_ Italy""",2009,"""Sulmona""",6.3,Normal,RSN4503_L-AQUILA_CR003XTE.AT2,RSN4503_L-AQUILA_CR003YLN.AT2
+"""L'Aquila (aftershock 1)_ Italy""",2009,"""L'Aquila - V. Aterno -Colle Grilli""",5.6,Normal Oblique,RSN4509_L-AQUILA.A_FA194XTE.AT2,RSN4509_L-AQUILA.A_FA194YLN.AT2
+"""L'Aquila (aftershock 1)_ Italy""",2009,"""L'Aquila - Parking""",5.6,Normal Oblique,RSN4513_L-AQUILA.A_AM383XTE.AT2,RSN4513_L-AQUILA.A_AM383YLN.AT2
+"""L'Aquila (aftershock 1)_ Italy""",2009,"""Celano""",5.6,Normal Oblique,RSN4518_L-AQUILA.A_TK011XTE.AT2,RSN4518_L-AQUILA.A_TK011YLN.AT2
+"""L'Aquila (aftershock 1)_ Italy""",2009,"""Sulmona""",5.6,Normal Oblique,RSN4520_L-AQUILA.A_CR007XTE.AT2,RSN4520_L-AQUILA.A_CR007YLN.AT2
+"""L'Aquila (aftershock 1)_ Italy""",2009,"""Fiamignano""",5.6,Normal Oblique,RSN4524_L-AQUILA.A_BX017XTE.AT2,RSN4524_L-AQUILA.A_BX017YLN.AT2
+"""L'Aquila (aftershock 2)_ Italy""",2009,"""L'Aquila - V. Aterno -Colle Grilli""",5.4,Normal,RSN4551_L-AQUILA.B_FA237XTE.AT2,RSN4551_L-AQUILA.B_FA237YLN.AT2
+"""L'Aquila (aftershock 2)_ Italy""",2009,"""L'Aquila - Parking""",5.4,Normal,RSN4554_L-AQUILA.B_AM440XTE.AT2,RSN4554_L-AQUILA.B_AM440YLN.AT2
+"""L'Aquila (aftershock 2)_ Italy""",2009,"""Leonessa""",5.4,Normal,RSN4558_L-AQUILA.B_ZC008XTE.AT2,RSN4558_L-AQUILA.B_ZC008YLN.AT2
+"""L'Aquila (aftershock 2)_ Italy""",2009,"""Fiamignano""",5.4,Normal,RSN4566_L-AQUILA.B_BX019XTE.AT2,RSN4566_L-AQUILA.B_BX019YLN.AT2
+"""San Fernando""",1971,"""Lake Hughes #9""",6.61,Reverse,RSN73_SFERN_L09021.AT2,RSN73_SFERN_L09291.AT2
+"""San Fernando""",1971,"""Pasadena - Old Seismo Lab""",6.61,Reverse,RSN80_SFERN_PSL180.AT2,RSN80_SFERN_PSL270.AT2
+"""Loma Prieta""",1989,"""Gilroy - Gavilan Coll.""",6.93,Reverse Oblique,RSN763_LOMAP_GIL067.AT2,RSN763_LOMAP_GIL337.AT2
+"""Loma Prieta""",1989,"""Gilroy Array #1""",6.93,Reverse Oblique,RSN765_LOMAP_G01000.AT2,RSN765_LOMAP_G01090.AT2
+"""Loma Prieta""",1989,"""Gilroy Array #6""",6.93,Reverse Oblique,RSN769_LOMAP_G06000.AT2,RSN769_LOMAP_G06090.AT2
+"""Loma Prieta""",1989,"""San Jose - Santa Teresa Hills""",6.93,Reverse Oblique,RSN801_LOMAP_SJTE225.AT2,RSN801_LOMAP_SJTE315.AT2
+"""Loma Prieta""",1989,"""UCSC""",6.93,Reverse Oblique,RSN809_LOMAP_UC2000.AT2,RSN809_LOMAP_UC2090.AT2
+"""Loma Prieta""",1989,"""UCSC Lick Observatory""",6.93,Reverse Oblique,RSN810_LOMAP_LOB000.AT2,RSN810_LOMAP_LOB090.AT2
+"""Northridge-01""",1994,"""LA - Chalon Rd""",6.69,Reverse,RSN989_NORTHR_CHL070.AT2,RSN989_NORTHR_CHL160.AT2
+"""Northridge-01""",1994,"""LA - Wonderland Ave""",6.69,Reverse,RSN1011_NORTHR_WON095.AT2,RSN1011_NORTHR_WON185.AT2
+"""Northridge-01""",1994,"""LA 00""",6.69,Reverse,RSN1012_NORTHR_LA0180.AT2,RSN1012_NORTHR_LA0270.AT2
+"""Northridge-01""",1994,"""Lake Hughes #9""",6.69,Reverse,RSN1023_NORTHR_L09000.AT2,RSN1023_NORTHR_L09090.AT2
+"""Northridge-01""",1994,"""Santa Susana Ground""",6.69,Reverse,RSN1078_NORTHR_SSU000.AT2,RSN1078_NORTHR_SSU090.AT2
+"""Northridge-01""",1994,"""Vasquez Rocks Park""",6.69,Reverse,RSN1091_NORTHR_VAS000.AT2,RSN1091_NORTHR_VAS090.AT2
+"""Kobe_ Japan""",1995,"""Kobe University""",6.9,strike slip,RSN1108_KOBE_KBU000.AT2,RSN1108_KOBE_KBU090.AT2
+"""Chi-Chi_ Taiwan""",1999,"""CHY042""",7.62,Reverse Oblique,RSN1206_CHICHI_CHY042-E.AT2,RSN1206_CHICHI_CHY042-N.AT2
+"""Chi-Chi_ Taiwan""",1999,"""CHY086""",7.62,Reverse Oblique,RSN1234_CHICHI_CHY086-E.AT2,RSN1234_CHICHI_CHY086-N.AT2
+"""Chi-Chi_ Taiwan""",1999,"""TCU084""",7.62,Reverse Oblique,RSN1517_CHICHI_TCU084-E.AT2,RSN1517_CHICHI_TCU084-N.AT2
+"""Chi-Chi_ Taiwan""",1999,"""TCU088""",7.62,Reverse Oblique,RSN1520_CHICHI_TCU088-N.AT2,RSN1520_CHICHI_TCU088-E.AT2
+"""Chi-Chi_ Taiwan""",1999,"""TCU089""",7.62,Reverse Oblique,RSN1521_CHICHI_TCU089-E.AT2,RSN1521_CHICHI_TCU089-N.AT2
+"""Chi-Chi_ Taiwan""",1999,"""TCU138""",7.62,Reverse Oblique,RSN1551_CHICHI_TCU138-N.AT2,RSN1551_CHICHI_TCU138-W.AT2
+"""Duzce_ Turkey""",1999,"""Lamont 1060""",7.14,strike slip,RSN1613_DUZCE_1060-N.AT2,RSN1613_DUZCE_1060-E.AT2
+"""Duzce_ Turkey""",1999,"""Lamont 531""",7.14,strike slip,RSN1618_DUZCE_531-N.AT2,RSN1618_DUZCE_531-E.AT2
+"""Manjil_ Iran""",1990,"""Abbar""",7.37,strike slip,RSN1633_MANJIL_ABBAR--L.AT2,RSN1633_MANJIL_ABBAR--T.AT2
+"""Hector Mine""",1999,"""Hector""",7.13,strike slip,RSN1787_HECTOR_HEC000.AT2,RSN1787_HECTOR_HEC090.AT2
+"""Tottori_ Japan""",2000,"""OKYH07""",6.61,strike slip,RSN3925_TOTTORI_OKYH07NS.AT2,RSN3925_TOTTORI_OKYH07EW.AT2
+"""Tottori_ Japan""",2000,"""OKYH08""",6.61,strike slip,RSN3926_TOTTORI_OKYH08NS.AT2,RSN3926_TOTTORI_OKYH08EW.AT2
+"""Tottori_ Japan""",2000,"""OKYH14""",6.61,strike slip,RSN3932_TOTTORI_OKYH14NS.AT2,RSN3932_TOTTORI_OKYH14EW.AT2
+"""Tottori_ Japan""",2000,"""SMNH10""",6.61,strike slip,RSN3954_TOTTORI_SMNH10NS.AT2,RSN3954_TOTTORI_SMNH10EW.AT2
+"""Niigata_ Japan""",2004,"""NIG023""",6.63,Reverse,RSN4213_NIIGATA_NIG023NS.AT2,RSN4213_NIIGATA_NIG023EW.AT2
+"""Niigata_ Japan""",2004,"""NIGH15""",6.63,Reverse,RSN4231_NIIGATA_NIGH15NS.AT2,RSN4231_NIIGATA_NIGH15EW.AT2
+"""Chuetsu-oki_ Japan""",2007,"""Joetsu Yasuzukaku Yasuzuka""",6.8,Reverse,RSN4841_CHUETSU_65004NS.AT2,RSN4841_CHUETSU_65004EW.AT2
+"""Chuetsu-oki_ Japan""",2007,"""Joetsu Uragawaraku Kamabucchi""",6.8,Reverse,RSN4842_CHUETSU_65005NS.AT2,RSN4842_CHUETSU_65005EW.AT2
+"""Chuetsu-oki_ Japan""",2007,"""Matsushiro Tokamachi""",6.8,Reverse,RSN4843_CHUETSU_65006NS.AT2,RSN4843_CHUETSU_65006EW.AT2
+"""Chuetsu-oki_ Japan""",2007,"""Tokamachi Matsunoyama""",6.8,Reverse,RSN4844_CHUETSU_65007NS.AT2,RSN4844_CHUETSU_65007EW.AT2
+"""Chuetsu-oki_ Japan""",2007,"""Yoitamachi Yoita Nagaoka""",6.8,Reverse,RSN4864_CHUETSU_65037NS.AT2,RSN4864_CHUETSU_65037EW.AT2
+"""Chuetsu-oki_ Japan""",2007,"""Yamakoshi Takezawa Nagaoka""",6.8,Reverse,RSN4868_CHUETSU_65041NS.AT2,RSN4868_CHUETSU_65041EW.AT2
+"""Chuetsu-oki_ Japan""",2007,"""Kawaguchi""",6.8,Reverse,RSN4869_CHUETSU_65042NS.AT2,RSN4869_CHUETSU_65042EW.AT2
+"""Chuetsu-oki_ Japan""",2007,"""Sawa Mizuguti Tokamachi""",6.8,Reverse,RSN4872_CHUETSU_65053NS.AT2,RSN4872_CHUETSU_65053EW.AT2
+"""Chuetsu-oki_ Japan""",2007,"""Kashiwazaki Nishiyamacho Ikeura""",6.8,Reverse,RSN4876_CHUETSU_65059NS.AT2,RSN4876_CHUETSU_65059EW.AT2
+"""Iwate_ Japan""",2008,"""AKT019""",6.9,Reverse,RSN5474_IWATE_AKT019NS.AT2,RSN5474_IWATE_AKT019EW.AT2
+"""Iwate_ Japan""",2008,"""IWT010""",6.9,Reverse,RSN5618_IWATE_IWT010NS.AT2,RSN5618_IWATE_IWT010EW.AT2
+"""Iwate_ Japan""",2008,"""Yuzawa Town""",6.9,Reverse,RSN5806_IWATE_55461NS.AT2,RSN5806_IWATE_55461EW.AT2
+"""Iwate_ Japan""",2008,"""Minase Yuzawa""",6.9,Reverse,RSN5809_IWATE_55465NS.AT2,RSN5809_IWATE_55465EW.AT2
+"""Iwate_ Japan""",2008,"""Machimukai Town""",6.9,Reverse,RSN5810_IWATE_56362NS.AT2,RSN5810_IWATE_56362EW.AT2
+"""Iwate_ Japan""",2008,"""Yuzawa""",6.9,Reverse,RSN5815_IWATE_44BC1NS.AT2,RSN5815_IWATE_44BC1EW.AT2
+"""Iwate_ Japan""",2008,"""Ichinoseki Maikawa""",6.9,Reverse,RSN5819_IWATE_4CA71NS.AT2,RSN5819_IWATE_4CA71EW.AT2
+"""Duzce_ Turkey""",1999,"""IRIGM 496""",7.14,strike slip,RSN8165_DUZCE_496-NS.AT2,RSN8165_DUZCE_496-EW.AT2
+"""San Fernando""",1971,"""Lake Hughes #12""",6.61,Reverse,RSN71_SFERN_L12021.AT2,RSN71_SFERN_L12291.AT2
+"""San Fernando""",1971,"""Lake Hughes #4""",6.61,Reverse,RSN72_SFERN_L04111.AT2,RSN72_SFERN_L04201.AT2
+"""Nahanni_ Canada""",1985,"""Site 1""",6.76,Reverse,RSN495_NAHANNI_S1010.AT2,RSN495_NAHANNI_S1280.AT2
+"""Nahanni_ Canada""",1985,"""Site 2""",6.76,Reverse,RSN496_NAHANNI_S2240.AT2,RSN496_NAHANNI_S2330.AT2
+"""Nahanni_ Canada""",1985,"""Site 3""",6.76,Reverse,RSN497_NAHANNI_S3270.AT2,RSN497_NAHANNI_S3360.AT2
+"""Northridge-01""",1994,"""Lake Hughes #12A""",6.69,Reverse,RSN1020_NORTHR_H12090.AT2,RSN1020_NORTHR_H12180.AT2
+"""Kobe_ Japan""",1995,"""Nishi-Akashi""",6.9,strike slip,RSN1111_KOBE_NIS000.AT2,RSN1111_KOBE_NIS090.AT2
+"""Chi-Chi_ Taiwan""",1999,"""TCU071""",7.62,Reverse Oblique,RSN1507_CHICHI_TCU071-E.AT2,RSN1507_CHICHI_TCU071-N.AT2
+"""Northridge-02""",1994,"""Lake Hughes #12A""",6.05,Reverse,RSN1664_NORTH001_H12090.AT2,RSN1664_NORTH001_H12180.AT2
+"""Chi-Chi_ Taiwan-03""",1999,"""TCU071""",6.2,Reverse,RSN2622_CHICHI.03_TCU071N.AT2,RSN2622_CHICHI.03_TCU071E.AT2
+"""Chi-Chi_ Taiwan-03""",1999,"""TCU076""",6.2,Reverse,RSN2627_CHICHI.03_TCU076N.AT2,RSN2627_CHICHI.03_TCU076E.AT2
+"""Chi-Chi_ Taiwan-06""",1999,"""TCU076""",6.3,Reverse,RSN3472_CHICHI.06_TCU076N.AT2,RSN3472_CHICHI.06_TCU076E.AT2
+"""Tottori_ Japan""",2000,"""SMN015""",6.61,strike slip,RSN3943_TOTTORI_SMN015NS.AT2,RSN3943_TOTTORI_SMN015EW.AT2
+"""Basso Tirreno_ Italy""",1978,"""Naso""",6,strike slip,RSN4284_BTIRRENO.P_NSO000.AT2,RSN4284_BTIRRENO.P_NSO090.AT2
+"""Chuetsu-oki_ Japan""",2007,"""Joetsu Oshimaku Oka""",6.8,Reverse,RSN4845_CHUETSU_65008NS.AT2,RSN4845_CHUETSU_65008EW.AT2
